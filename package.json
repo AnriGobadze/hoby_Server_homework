@@ -1,0 +1,27 @@
+{
+  "name": "hoby_server_homework",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev":"nodemon script.js"
+    
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnriGobadze/hoby_Server_homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnriGobadze/hoby_Server_homework/issues"
+  },
+  "homepage": "https://github.com/AnriGobadze/hoby_Server_homework#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}
